@@ -1,7 +1,9 @@
 # GitHub Pages Deployment
 
-<p>A simple web page that is automatically deployed to GitHub Pages.</p>
+A simple web page that is automatically deployed to GitHub Pages.
 
 ## 🚀 Deploy
 
-<p>This project is designed to deploy GitHub Pages every time a push is made to the main branch.</p>
+This project is configured to automatically deploy **GitHub Pages** every time a push is made to the `main` branch.
+
+🔗 **URL**: [https://luanaalvs.github.io/gh-deployment-workflow/](https://luanaalvs.github.io/gh-deployment-workflow/)
